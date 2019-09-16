@@ -1,0 +1,25 @@
+University	Twitter	Joined	Tweets	Following	Followers	Students
+University of Birmingham	@unibirmingham	04-Dec-08	38014	1071	114784	34915
+University of Bristol	@BristolUni	16-Mar-09	14256	565	80675	24850
+University of Cambridge	@Cambridge_Uni	20-Apr-09	10359	1221	481608	20510
+Cardiff University	@cardiffuni	11-Jan-08	17727	734	76692	31935
+Durham University	@durham_uni	05-Apr-11	7172	2282	45756	18330
+University of Edinburgh	@EdinburghUni	09-Mar-09	7422	354	106614	32885
+University of Exeter	@UniofExeter	27-Jul-09	21235	895	65910	24045
+University of Glasgow	@UofGlasgow	30-Jan-09	18963	1803	94932	29725
+Imperial College London	@imperialcollege	08-Jul-08	14393	3295	100537	18375
+King's College London	@KingsCollegeLon	03-Mar-09	7678	1431	93839	32270
+University of Leeds	@UniversityLeeds	20-Apr-09	11272	1032	99389	34420
+University of Liverpool	@LivUni	12-Jan-09	22886	785	59375	28795
+London School of Economics and Political Science	@LSEnews	15-Jun-10	17087	1258	87536	11620
+University of Manchester	@OfficialUoM	27-Nov-13	16047	528	57821	40140
+Newcastle University	@UniofNewcastle	14-Dec-09	9844	1378	36063	26470
+University of Nottingham	@UniofNottingham	10-Apr-09	40400	3504	82505	33100
+University of Oxford	@UniofOxford	18-Jun-09	16501	1138	538613	24915
+"Queen Mary, University of London"	@UniofOxford	23-Jan-09	12908	706	51546	20070
+Queen's University Belfast	@QUBelfast	01-May-09	20078	881	42056	24490
+University of Sheffield	@sheffielduni	22-Jan-09	20362	4883	118950	29675
+University of Southampton	@unisouthampton	24-Mar-09	15945	1717	52868	24625
+University College London	@ucl	23-Jun-11	3782	908	64801	40015
+University of Warwick	@warwickuni	20-Aug-08	29330	2400	78203	25705
+University of York	@UniOfYork	27-Mar-09	17800	627	69320	18825
